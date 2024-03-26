@@ -16,6 +16,9 @@
             android:name=".MainActivityA"
             android:exported="false" />
         <activity
+            android:name=".MainActivityB"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
